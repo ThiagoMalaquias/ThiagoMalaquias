@@ -7,7 +7,6 @@
 - 🌱 Hoje estudo React
 - 😄 Pronomes: Ele/Dele
 
-##
 
 <div align="center">
   <a href="https://github.com/ThiagoMalaquias">
