@@ -3,8 +3,8 @@
 # ✨ Thiago Malaquias | Desenvolvedor Full Stack
 </div>
 
-- 🔭 Hoje trabalho com React + Ruby
-- 🌱 Hoje estudo React
+- 🔭 Trabalhando com React/Angular + RubyOnRails
+- 🌱 Estudando React no momento
 - 😄 Pronomes: Ele/Dele
 
 
